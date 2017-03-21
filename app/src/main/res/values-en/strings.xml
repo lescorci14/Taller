@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="parte_saludo">Hello</string>
+    <string name="saludar">Send</string>
+    <string name="titulo">Type your Basic Information</string>
+    <string name="apellido">LastName</string>
+    <string name="nombre">Name</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="parte_saludo2">Welcome to this app!!!</string>
+    <string name="error_1">Please type your First Name</string>
+    <string name="error_2">Please type your First Surname</string>
+    <string name="borrar">Delete</string>
+    <string name="edad">Age</string>
+    <string name="error_3">Please type your Middle Name</string>
+    <string name="error_4">Please type your Second Surname</string>
+    <string name="error_5">Please type your Age</string>
+    <string name="error_6">Please type your Gender</string>
+    <string name="parte_saludo3">You have</string>
+    <string name="parte_saludo4">years old</string>
+    <string name="parte_saludo5">and your gender is</string>
+    <string name="primerapellido">First Surname</string>
+    <string name="primernombre">First Name</string>
+    <string name="segundoapellido">Second Surname</string>
+    <string name="segundonombre">Middle Name</string>
+    <string name="sexo">Gender</string>
+    <string name="app_name">Work</string>
+</resources>
